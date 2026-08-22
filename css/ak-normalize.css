@@ -1,0 +1,133 @@
+/* Common
+------------------------------------------ */
+html {
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	}
+body {
+	margin: 0;
+	}
+/* Links
+------------------------------------------ */
+a {
+	background: transparent;
+	}
+a:active, a:hover {
+	outline: 0;
+	}
+/* Input [Text]
+------------------------------------------ */
+.ak_input_text_norm {
+	-webkit-appearance: none; /* webkit reset */
+	color: inherit;
+	font: inherit;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	border: none;
+	line-height: normal;
+	vertical-align: middle;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	}
+.ak_input_text_norm::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+	}
+.ak_input_text_norm::-moz-placeholder {
+	opacity: 1;
+	}
+/* Textarea
+------------------------------------------ */
+.ak_textarea_norm {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-appearance: none; /* webkit reset */
+	overflow: auto;
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	resize: none;
+	border: none;
+	}
+.ak_textarea_norm::-moz-placeholder {
+	opacity: 1;
+	}
+/* Select Group
+-------------------------------------- */
+.ak_select_group_norm {
+	position: relative;
+	}
+/* Select
+------------------------------------------ */
+.ak_select_norm {
+	/* normalize */
+  -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	text-decoration: none;
+	cursor: pointer;
+	/* crop */        
+  white-space: nowrap;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	}
+/* Dropdown
+------------------------------------------ */
+.ak_ddown_norm {
+	/* normalize */
+  -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	position: absolute;
+	list-style: outside none;
+	margin: 0;
+	padding: 0;
+	}
+/* Buttons
+------------------------------------------ */
+.ak_button_norm {
+	/* Reset */
+	-webkit-appearance: none; /* webkit reset */
+	letter-spacing: normal;
+	overflow: visible;
+	font: inherit; /* ! correct font properties not being inherited ! */
+	color: inherit;
+	border: none;
+	outline: none;
+	text-decoration: none;
+	text-transform: none;
+	/* Normalize */
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	display: -moz-inline-stack;
+	display: inline-block;
+	vertical-align: middle;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: center;
+	}
+/* Moz reset */
+.ak_button_norm::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+	}
+/* Hover reset */
+.ak_button_norm:hover {
+	text-decoration: none;
+	}
+/* Tables
+------------------------------------------ */
+.ak_table_norm {
+	border-collapse: collapse;
+	border-spacing: 0;
+	}
+.ak_table_norm td, .ak_table_norm th {
+	border: none;
+	padding: 0;
+	}

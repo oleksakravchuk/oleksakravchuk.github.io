@@ -1,0 +1,446 @@
+[class*="ak_clear_"] {
+	clear: both;
+	line-height: 0;
+	font-size: 0;
+    display: none;
+	}
+
+/* xs - phones portrait */
+@media (max-width: 479px) {
+.ak_clear_xs {
+	 height: 0;
+    display: block;
+	}
+.ak_clear_5_xs {
+	 height: 5px;
+    display: block;
+	}
+.ak_clear_10_xs {
+	 height: 10px;
+    display: block;
+	}
+.ak_clear_15_xs {
+	 height: 15px;
+    display: block;
+	}
+.ak_clear_20_xs {
+	 height: 20px;
+    display: block;
+	}
+.ak_clear_25_xs {
+	 height: 25px;
+    display: block;
+	}
+.ak_clear_30_xs {
+	 height: 30px;
+    display: block;
+	}
+.ak_clear_35_xs {
+	 height: 35px;
+    display: block;
+	}
+.ak_clear_40_xs {
+	 height: 40px;
+    display: block;
+	}
+.ak_clear_45_xs {
+	 height: 45px;
+    display: block;
+	}
+.ak_clear_50_xs {
+	 height: 50px;
+    display: block;
+	}
+.ak_clear_55_xs {
+	 height: 55px;
+    display: block;
+	}
+.ak_clear_60_xs {
+	 height: 60px;
+    display: block;
+	}
+.ak_clear_65_xs {
+	 height: 65px;
+    display: block;
+	}
+.ak_clear_70_xs {
+	 height: 70px;
+    display: block;
+	}
+.ak_clear_75_xs {
+	 height: 75px;
+    display: block;
+	}
+.ak_clear_80_xs {
+	 height: 80px;
+    display: block;
+	}
+.ak_clear_85_xs {
+	 height: 85px;
+    display: block;
+	}
+.ak_clear_90_xs {
+	 height: 90px;
+    display: block;
+	}
+.ak_clear_95_xs {
+	 height: 95px;
+    display: block;
+	}
+.ak_clear_100_xs {
+	 height: 100px;
+    display: block;
+	}
+}
+
+/* sm - phones landscape */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+ .ak_clear_sm {
+     height: 0;
+     display: block;
+    }
+ .ak_clear_5_sm {
+     height: 5px;
+     display: block;
+    }
+ .ak_clear_10_sm {
+     height: 10px;
+     display: block;
+    }
+ .ak_clear_15_sm {
+     height: 15px;
+     display: block;
+    }
+ .ak_clear_20_sm {
+     height: 20px;
+     display: block;
+    }
+ .ak_clear_25_sm {
+     height: 25px;
+     display: block;
+    }
+ .ak_clear_30_sm {
+     height: 30px;
+     display: block;
+    }
+ .ak_clear_35_sm {
+     height: 35px;
+     display: block;
+    }
+ .ak_clear_40_sm {
+     height: 40px;
+     display: block;
+    }
+ .ak_clear_45_sm {
+     height: 45px;
+     display: block;
+    }
+ .ak_clear_50_sm {
+     height: 50px;
+     display: block;
+    }
+ .ak_clear_55_sm {
+     height: 55px;
+     display: block;
+    }
+ .ak_clear_60_sm {
+     height: 60px;
+     display: block;
+    }
+ .ak_clear_65_sm {
+     height: 65px;
+     display: block;
+    }
+ .ak_clear_70_sm {
+     height: 75px;
+     display: block;
+    }
+ .ak_clear_75_sm {
+     height: 75px;
+     display: block;
+    }
+ .ak_clear_80_sm {
+     height: 80px;
+     display: block;
+    }
+ .ak_clear_85_sm {
+     height: 85px;
+     display: block;
+    }
+ .ak_clear_90_sm {
+     height: 90px;
+     display: block;
+    }
+ .ak_clear_95_sm {
+     height: 95px;
+     display: block;
+    }
+ .ak_clear_100_sm {
+     height: 100px;
+     display: block;
+    }
+}
+
+/* md - tablets portrait */
+@media screen and (min-width: 768px) and (max-width: 959px) {
+ .ak_clear_md {
+    height: 0;
+    display: block;
+    }
+ .ak_clear_5_md {
+    height: 5px;
+    display: block;
+    }
+ .ak_clear_10_md {
+    height: 10px;
+    display: block;
+    }
+ .ak_clear_15_md {
+    height: 15px;
+    display: block;
+    }
+ .ak_clear_20_md {
+    height: 20px;
+    display: block;
+    }
+ .ak_clear_25_md {
+    height: 25px;
+    display: block;
+    }
+ .ak_clear_30_md {
+    height: 30px;
+    display: block;
+    }
+ .ak_clear_35_md {
+    height: 35px;
+    display: block;
+    }
+ .ak_clear_40_md {
+    height: 40px;
+    display: block;
+    }
+ .ak_clear_45_md {
+    height: 45px;
+    display: block;
+    }
+ .ak_clear_50_md {
+    height: 50px;
+    display: block;
+    }
+.ak_clear_55_md {
+    height: 55px;
+    display: block;
+    }
+ .ak_clear_60_md {
+    height: 60px;
+    display: block;
+    }
+ .ak_clear_65_md {
+    height: 65px;
+    display: block;
+    }
+ .ak_clear_70_md {
+    height: 70px;
+    display: block;
+    }
+ .ak_clear_75_md {
+    height: 75px;
+    display: block;
+    }
+ .ak_clear_80_md {
+    height: 80px;
+    display: block;
+    }
+.ak_clear_85_md {
+    height: 85px;
+    display: block;
+    }
+ .ak_clear_90_md {
+    height: 90px;
+    display: block;
+    }
+ .ak_clear_95_md {
+    height: 95px;
+    display: block;
+    }
+ .ak_clear_100_md {
+    height: 100px;
+    display: block;
+    }
+}
+
+/* lg - desktops & tablets landscape */
+@media screen and (min-width: 960px) and (max-width: 1199px) {
+.ak_clear_lg {
+    height: 0;
+    display: block;
+	}
+.ak_clear_5_lg {
+    height: 5px;
+    display: block;
+	}
+.ak_clear_10_lg {
+    height: 10px;
+    display: block;
+	}
+.ak_clear_15_lg {
+    height: 15px;
+    display: block;
+	}
+.ak_clear_20_lg {
+    height: 20px;
+    display: block;
+	}
+.ak_clear_25_lg {
+	 height: 25px;
+    display: block;
+	}
+.ak_clear_30_lg {
+	 height: 30px;
+    display: block;
+	}
+.ak_clear_35_lg {
+	 height: 35px;
+    display: block;
+	}
+.ak_clear_40_lg {
+	 height: 40px;
+    display: block;
+	}
+.ak_clear_45_lg {
+	 height: 45px;
+    display: block;
+	}
+.ak_clear_50_lg {
+	 height: 50px;
+    display: block;
+	}
+.ak_clear_55_lg {
+	 height: 55px;
+    display: block;
+	}
+.ak_clear_60_lg {
+	 height: 60px;
+    display: block;
+	}
+.ak_clear_65_lg {
+	 height: 65px;
+    display: block;
+	}
+.ak_clear_70_lg {
+	 height: 70px;
+    display: block;
+	}
+.ak_clear_75_lg {
+    height: 75px;
+    display: block;
+	}
+.ak_clear_80_lg {
+    height: 80px;
+    display: block;
+	}
+.ak_clear_85_lg {
+    height: 85px;
+    display: block;
+	}
+.ak_clear_90_lg {
+    height: 90px;
+    display: block;
+	}
+.ak_clear_95_lg {
+    height: 95px;
+    display: block;
+	}
+.ak_clear_100_lg {
+    height: 100px;
+    display: block;
+	}
+}
+
+/* xl - large desktops */
+@media screen and (min-width: 1200px) {
+.ak_clear_xl {
+    height: 0;
+    display: block;
+	}
+.ak_clear_5_xl {
+    height: 5px;
+    display: block;
+	}
+.ak_clear_10_xl {
+    height: 10px;
+    display: block;
+	}
+.ak_clear_15_xl {
+    height: 15px;
+    display: block;
+	}
+.ak_clear_20_xl {
+    height: 20px;
+    display: block;
+	}
+.ak_clear_25_xl {
+    height: 25px;
+    display: block;
+	}
+.ak_clear_30_xl {
+    height: 30px;
+    display: block;
+	}
+.ak_clear_35_xl {
+    height: 35px;
+    display: block;
+	}
+.ak_clear_40_xl {
+    height: 40px;
+    display: block;
+	}
+.ak_clear_45_xl {
+    height: 45px;
+    display: block;
+	}
+.ak_clear_50_xl {
+    height: 50px;
+    display: block;
+	}
+.ak_clear_55_xl {
+    height: 55px;
+    display: block;
+	}
+.ak_clear_60_xl {
+    height: 60px;
+    display: block;
+	}
+.ak_clear_65_xl {
+    height: 65px;
+    display: block;
+	}
+.ak_clear_70_xl {
+    height: 70px;
+    display: block;
+	}
+.ak_clear_75_xl {
+    height: 75px;
+    display: block;
+	}
+.ak_clear_80_xl {
+    height: 80px;
+    display: block;
+	}
+.ak_clear_85_xl {
+    height: 85px;
+    display: block;
+	}
+.ak_clear_90_xl {
+    height: 90px;
+    display: block;
+	}
+.ak_clear_95_xl {
+    height: 95px;
+    display: block;
+	}
+.ak_clear_100_xl {
+    height: 100px;
+    display: block;
+	}
+}
