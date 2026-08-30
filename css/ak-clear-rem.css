@@ -1,0 +1,201 @@
+[class*="ak_clear_"] {
+	clear: both;
+	line-height: 0;
+	font-size: 0;
+    display: none;
+	}
+
+/* all screens */
+ .ak_clear {
+	 height: 0;
+    display: block;
+	}
+.ak_clear_05 {
+	 height: 0.5rem;
+    display: block;
+	}
+.ak_clear_1 {
+	 height: 1rem;
+    display: block;
+	}
+.ak_clear_15 {
+	 height: 1.5rem;
+    display: block;
+	}
+.ak_clear_2 {
+	 height: 2rem;
+    display: block;
+	}
+.ak_clear_3 {
+	 height: 3rem;
+    display: block;
+	}
+.ak_clear_4 {
+	 height: 4rem;
+    display: block;
+	}
+.ak_clear_5 {
+	 height: 5rem;
+    display: block;
+    }
+
+
+/* xs - phones portrait */
+@media (max-width: 479px) {
+.ak_clear_xs {
+	 height: 0;
+    display: block;
+	}
+.ak_clear_05_xs {
+	 height: 0.5rem;
+    display: block;
+	}
+.ak_clear_1_xs {
+	 height: 1rem;
+    display: block;
+	}
+.ak_clear_2_xs {
+	 height: 2rem;
+    display: block;
+	}
+.ak_clear_3_xs {
+	 height: 3rem;
+    display: block;
+	}
+.ak_clear_4_xs {
+	 height: 4rem;
+    display: block;
+	}
+.ak_clear_5_xs {
+	 height: 5rem;
+    display: block;
+	}
+}
+
+/* sm - phones landscape */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+ .ak_clear_sm {
+	 height: 0;
+    display: block;
+	}
+.ak_clear_05_sm {
+	 height: 0.5rem;
+    display: block;
+	}
+.ak_clear_1_sm {
+	 height: 1rem;
+    display: block;
+	}
+.ak_clear_2_sm {
+	 height: 2rem;
+    display: block;
+	}
+.ak_clear_3_sm {
+	 height: 3rem;
+    display: block;
+	}
+.ak_clear_4_sm {
+	 height: 4rem;
+    display: block;
+	}
+.ak_clear_5_sm {
+	 height: 5rem;
+    display: block;
+    }
+}
+
+/* md - tablets portrait */
+@media screen and (min-width: 768px) and (max-width: 959px) {
+ .ak_clear_md {
+	 height: 0;
+    display: block;
+	}
+.ak_clear_05_md {
+	 height: 0.5rem;
+    display: block;
+	}
+.ak_clear_1_md {
+	 height: 1rem;
+    display: block;
+	}
+.ak_clear_2_md {
+	 height: 2rem;
+    display: block;
+	}
+.ak_clear_3_md {
+	 height: 3rem;
+    display: block;
+	}
+.ak_clear_4_md {
+	 height: 4rem;
+    display: block;
+	}
+.ak_clear_5_md {
+	 height: 5rem;
+    display: block;
+    }
+}
+
+/* lg - desktops & tablets landscape */
+@media screen and (min-width: 960px) and (max-width: 1199px) {
+.ak_clear_lg {
+	 height: 0;
+    display: block;
+	}
+.ak_clear_05_lg {
+	 height: 0.5rem;
+    display: block;
+	}
+.ak_clear_1_lg {
+	 height: 1rem;
+    display: block;
+	}
+.ak_clear_2_lg {
+	 height: 2rem;
+    display: block;
+	}
+.ak_clear_3_lg {
+	 height: 3rem;
+    display: block;
+	}
+.ak_clear_4_lg {
+	 height: 4rem;
+    display: block;
+	}
+.ak_clear_5_lg {
+	 height: 5rem;
+    display: block;
+    }
+}
+
+/* xl - large desktops */
+@media screen and (min-width: 1200px) {
+.ak_clear_xl {
+	 height: 0;
+    display: block;
+	}
+.ak_clear_05_xl {
+	 height: 0.5rem;
+    display: block;
+	}
+.ak_clear_1_xl {
+	 height: 1rem;
+    display: block;
+	}
+.ak_clear_2_xl {
+	 height: 2rem;
+    display: block;
+	}
+.ak_clear_3_xl {
+	 height: 3rem;
+    display: block;
+	}
+.ak_clear_4_xl {
+	 height: 4rem;
+    display: block;
+	}
+.ak_clear_5_xl {
+	 height: 5rem;
+    display: block;
+    }
+}
