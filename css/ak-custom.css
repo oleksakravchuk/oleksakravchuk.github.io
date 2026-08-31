@@ -298,13 +298,7 @@ ul li:before {
     }
 
 
-.btn-flag {
-/*
-    background: -webkit-linear-gradient(45deg, #007AFF 0%, #F3D500 100%);
-    background: -moz-linear-gradient(45deg, #007AFF 0%, #F3D500 100%);
-    background: linear-gradient(45deg, #007AFF 0%, #F3D500 100%); 
-*/
-    
+.btn-flag { 
     background: -webkit-linear-gradient(120deg, #0587EB 0%, #FFD815 100%); 
     background: -moz-llinear-gradient(120deg, #0587EB 0%, #FFD815 100%); 
     background: linear-gradient(120deg, #0587EB 0%, #FFD815 100%); 
@@ -339,66 +333,29 @@ ul li:before {
         background: #0b5ed7;
         }
 
+    .btn-hero {
+        font-size: 1.25rem;
+        line-height: 2.2rem;
+        height: 2.5rem;
+        }
 
 
-
-
-
-
-
-
-
-
-
-/*
-h3.mdash:after {
-    content: '\0020\2014';
-    color: #0d6efd;
-    }
-*/
-
-
-.tag-small {
-    display: inline-block;
-    font-size: .8rem;
-    font-weight: 500;
-    height: 1.3rem;
-    line-height: 1.25rem;
-    padding: 0 .5rem;
-/*    background: #F1F3F7;*/
-    border: 1px #000 solid;
-/*    border: 1px #C9D1E1 solid;*/
-/*    margin-right: 1ch;*/
-    border-radius: 999px;
-    }
+/* BG ----------------------------- */
 
 
 .flag-ua {
     height: 1rem;
-/*
-    background: -webkit-linear-gradient(45deg, #007AFF 0%, #F3D500 100%);
-    background: -moz-linear-gradient(45deg, #007AFF 0%, #F3D500 100%);
-    background: linear-gradient(45deg, #007AFF 0%, #F3D500 100%);
-*/
-    
     background: -webkit-linear-gradient(120deg, #0587EB 0%, #FFD815 100%);
     background: -moz-linear-gradient(120deg, #0587EB 0%, #FFD815 100%);
     background: linear-gradient(120deg, #0587EB 0%, #FFD815 100%);
     }
 
-    .flag-ua .blue {
-        display: none;
-        background: #1D85F6; 
-        height: .5rem;
-        }
-
-    .flag-ua .yellow {
-        height: 1rem;
-        background: -webkit-linear-gradient(45deg, #007AFF 0%, #F3D500 100%);
-        background: -moz-linear-gradient(45deg, #007AFF 0%, #F3D500 100%);
-        background: linear-gradient(45deg, #007AFF 0%, #F3D500 100%);
-        }
-
+.footer-flag-ua {
+    background: -webkit-linear-gradient(120deg, #0587EB 0%, #FFD815 100%);
+    background: -moz-linear-gradient(120deg, #0587EB 0%, #FFD815 100%);
+    background: linear-gradient(120deg, #0587EB 0%, #FFD815 100%);
+    color: #fff !important;
+    }
 
 .bg-fog {
     background: #F1F3F7;
@@ -406,12 +363,7 @@ h3.mdash:after {
 
 
     
-    
-    .btn-hero {
-        font-size: 1.25rem;
-        line-height: 2.2rem;
-        height: 2.5rem;
-        }
+
 
 
 
