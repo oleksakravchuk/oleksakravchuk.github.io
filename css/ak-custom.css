@@ -101,6 +101,12 @@ img {
     height: auto;
     }
 
+    .ok-photo img {
+        width: 7rem;
+        border-radius: 1rem;
+        corner-shape: squircle;
+        }
+
 
 .container {
     max-width: 960px !important;
