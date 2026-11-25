@@ -115,6 +115,9 @@ img {
     }
 
 
+strong {
+    font-weight: 600;
+    }
 
 /* TYPO ----------------------------- */
 
@@ -287,6 +290,7 @@ ul li:before {
 .btn-hero {
     position: relative;
     display: block;
+    max-width: 720px;
     height: 3rem;
     padding: 0 1rem;
     font-family: 'k';
@@ -303,11 +307,13 @@ ul li:before {
     background: -moz-llinear-gradient(120deg, #0587EB 0%, #FFD815 100%); 
     background: linear-gradient(120deg, #0587EB 0%, #FFD815 100%); 
     color: #fff;
+    text-decoration: none;
     }
 
     .btn-flag:hover {
         color: #fff;
         background: #000;
+        text-decoration: none;
         }
 
 
@@ -381,7 +387,7 @@ ul li:before {
 
 .nav{
     position:absolute;
-    top:50%;
+    top:48%;
     transform:translateY(-50%);
     width:2rem;
     height:2rem;
@@ -392,6 +398,7 @@ ul li:before {
     opacity:0.5;
     z-index:10;
     font-family: 'k';
+    font-size: 1rem;
     font-weight: 700;
     border-radius: .5rem;
     }
