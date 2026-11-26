@@ -215,6 +215,7 @@ h4 + ul {
 a {
     text-decoration: none;
     color: #004e88;
+    border-bottom: 1px solid #cddce8;
     }
 
 a:hover {
