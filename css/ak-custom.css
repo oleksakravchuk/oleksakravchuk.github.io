@@ -109,10 +109,9 @@ img {
 
 
 .container {
-    max-width: 960px !important;
+    max-width: 960px;
     padding-left: 2rem;
     padding-right: 2rem;
-    box-sizing: border-box;
     }
 
 
@@ -293,7 +292,7 @@ ul li:before {
 .btn-hero {
     position: relative;
     display: block;
-    max-width: 42rem;
+    max-width: 720px;
     height: 3rem;
     padding: 0 1rem;
     font-family: 'k';
@@ -376,7 +375,7 @@ ul li:before {
 
 .slider{
     position:relative;
-    max-width: 44rem;
+    max-width: 720px;
     }
 
 .slide{
@@ -457,11 +456,6 @@ ul li:before {
     }
 
 
-
-
-* {
-    outline: 1px solid red !important;
-}
 
 
 
