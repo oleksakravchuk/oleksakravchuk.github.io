@@ -238,9 +238,8 @@ ul {
 ul li {
     list-style: none outside;
     padding: 0;
-    text-indent: -.7rem;
-/*        text-indent: 0;*/
-    margin-left: .7rem;
+    text-indent: -.9rem;
+    margin-left: 1rem;
     max-width: 60ch;
     }
 
@@ -249,13 +248,7 @@ li + li {
     }
 
 ul li:before {
-            content: '\2014\0020';
-/*                content: '\003e\0020';*/
-/*                content: '\203A\0020';*/
-/*                content: '\221A\0020';*/
-    /*        content: '+\0020';*/
-    /*        content: '\2022\0020';*/
-/*            color: #ccc;*/
+    content: '\2014\0020';
     }
 
 
